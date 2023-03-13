@@ -27,7 +27,7 @@ button=Button(root,text="Check",font=("arial",20,"bold"),fg="white",bg="red",com
 button.pack()
 
 spell=Label(root,font=("poppins",20))
-spell.place(x=350,y=250)
+spell.place(x=400,y=250)
 
 
 
